@@ -1,2 +1,2 @@
 # terminal-game
-A simple python game choice game
+A simple python choice game
